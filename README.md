@@ -1,4 +1,4 @@
-## End to End RNN Project Using RNN
+## End to End RNN Project
 ### IMDB Movie Review Sentiment Analysis
 
 This project aims to perform sentiment analysis on IMDB movie reviews using a Recurrent Neural Network (RNN). The goal is to predict whether a given movie review is **positive** or **negative** based on the movie reviews.
